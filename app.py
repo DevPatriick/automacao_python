@@ -2,11 +2,11 @@ import pyautogui
 from time import sleep
 
 pyautogui.click(1026,352, duration=2)
-pyautogui.write('andrade.patrickreis@gmail.com')
+pyautogui.write('')
 
 pyautogui.click(1078,436, duration=2)
 pyautogui.click(1046,494, duration=2)
-pyautogui.write('momozi@2022')
+pyautogui.write('')
 pyautogui.click(1079,564, duration=2)
 
  
